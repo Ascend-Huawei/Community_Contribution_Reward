@@ -4,9 +4,9 @@
    - [Ascend Model Zoo Repository](https://github.com/Ascend/modelzoo)
 ## Scope：2021/1/1 … 2022/1/1 Canada
 ## Rewards:
-  - 1st Prize: 1000-2000 CAD or equivalent (e.g. Huawei cell phone)
-  - 2nd Prize: 200-500 CAD or equivalent (e.g. Huawei Watch)
-  - 3rd Prize: 50-100 CAD or equivalent (e.g. Huawei Band)
+  - 1st Prize: Huawei Cell Phone (1000-2000 CAD or equivalent)
+  - 2nd Prize: Huawei Watch (200-500 CAD or equivalent)
+  - 3rd Prize: Huawei Band (50-100 CAD or equivalent)
 ## Preliminary:
    You have made contribution to either repo following either repo's contribution process ([Contribute to Samples](https://github.com/Ascend/samples/blob/master/CONTRIBUTING_EN.md), [Contribution to Modelzoo](https://github.com/Ascend/modelzoo/blob/master/contrib/CONTRIBUTING.md)) and your pull request has been accepted.
 ## How to participate:
