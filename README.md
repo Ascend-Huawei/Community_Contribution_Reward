@@ -18,5 +18,5 @@ The basic idea is as follows
 - Evaluation
    After you created the application, we will evaluate your contribution based on its Innovation, Quality, and Complexity, then notify you whether you have won the prize and which prize you can get. If you accept the prize, we will deliver the prize to you.
 
-**Note:** by creating an issue for participating the competition, it means you have carefully read and agree with the [competition rule](ASCEND COMMUNITY CONTRIBUTION COMPETITION RULES.md).
+**Note:** by creating an issue for participating the competition, it means you have carefully read and agree with the [competition rule](ASCEND_COMMUNITY_CONTRIBUTION_COMPETITION_RULES.md).
  
