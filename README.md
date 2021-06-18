@@ -8,7 +8,7 @@
   - 3rd Prize: Huawei Band 4 or equivalent (approximate retail value: CAD $80)
 
 ## Rules:
-Please read the [competition rule](ASCEND_COMMUNITY_CONTRIBUTION_COMPETITION_RULES.md) carefully.  
+Please read the [ASCEND COMMUNITY CONTRIBUTION COMPETITION RULE](ASCEND_COMMUNITY_CONTRIBUTION_COMPETITION_RULES.md) carefully.  
 The basic idea is as follows
 
 - Preliminary:
@@ -18,5 +18,5 @@ The basic idea is as follows
 - Evaluation
    After you created the application, we will evaluate your contribution based on its Innovation, Quality, and Complexity, then notify you whether you have won the prize and which prize you can get. If you accept the prize, we will deliver the prize to you.
 
-**Note:** by creating an issue for participating the competition, it means you have carefully read and agree with the [competition rule](ASCEND_COMMUNITY_CONTRIBUTION_COMPETITION_RULES.md).
+**Note:** by creating an issue for participating the competition, it means you have carefully read and agree with the [ASCEND COMMUNITY CONTRIBUTION COMPETITION RULE](ASCEND_COMMUNITY_CONTRIBUTION_COMPETITION_RULES.md).
  
