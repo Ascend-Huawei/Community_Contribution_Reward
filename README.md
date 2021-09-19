@@ -7,6 +7,8 @@
   - 2nd Prize: Huawei Watch GT 2 or equivalent (approximate retail value: CAD $300)
   - 3rd Prize: Huawei Band 4 or equivalent (approximate retail value: CAD $80)
 
+**Note:** All the prizes allow multiple winners, so please do not hesitate to apply.
+
 ## Rules:
 Please read the [ASCEND COMMUNITY CONTRIBUTION COMPETITION RULE](ASCEND_COMMUNITY_CONTRIBUTION_COMPETITION_RULES.md) carefully.  
 The basic idea is as follows
@@ -20,3 +22,6 @@ The basic idea is as follows
 
 **Note:** by creating an issue for participating the competition, it means you have carefully read and agree with the [ASCEND COMMUNITY CONTRIBUTION COMPETITION RULE](ASCEND_COMMUNITY_CONTRIBUTION_COMPETITION_RULES.md).
  
+| Winners       | Project       | Prize         |
+| ------------- | ------------- | ------------- |
+| [Kelvin Koon](https://github.com/kelvinkoon), [Richard Wang](www.linkedin.com/in/ziyu-wang-2035b819), [Vincent Chua](https://github.com/vinchua)([linkedin](https://ca.linkedin.com/in/vincent-chua)), [Hongrong Zhang](https://github.com/WilliamZhangHR), [Tiancheng Feng](www.linkedin.com/in/tiancheng-feng-89704521a) | [DIY_200DK_RC_Car_Traffic_Control](https://gitee.com/ascend/samples/tree/master/python/contrib/DIY_200DK_RC_Car), [Atlas_200_DK_Peripheral_Python_API](https://gitee.com/ascend/samples/tree/master/python/level1_single_api/5_200dk_peripheral) |[Huawei ‘FreeBuds 3’ Earbuds](https://consumer.huawei.com/en/headphones/freebuds3/) for each |
